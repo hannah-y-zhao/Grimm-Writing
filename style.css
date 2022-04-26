@@ -1,0 +1,19 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+input[type=text] {
+  width: 75%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: none;
+  background-color: #ffffff47;
+  outline: none;
+}
+input[type=text]:focus {
+  border: 3px solid rgb(58, 83, 102);
+}
