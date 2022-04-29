@@ -13,6 +13,8 @@ input[type=text] {
   border: none;
   background-color: #ffffff47;
   outline: none;
+  font-size: large;
+  font-family: 'Trebuchet MS'
 }
 input[type=text]:focus {
   border: 3px solid rgb(58, 83, 102);
