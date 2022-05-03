@@ -627,7 +627,6 @@ function page4view() {
     text("\n"+Math.round(compareDataArr[i][0]*100)+"% similar to\n"+compareDataArr[i][2]+"'s story",width*2/7-height/20+i*width/4,height*3/5)
   }
   
-
 }
 
 
